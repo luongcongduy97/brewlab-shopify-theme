@@ -1,3 +1,5 @@
+# BrewLab – Shopify Theme Customizations
+
 <h1 align="center" style="position: relative;">
   <br>
     <img src="./assets/shoppy-x-ray.svg" alt="logo" width="200">
